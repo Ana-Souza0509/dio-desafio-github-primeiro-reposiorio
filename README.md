@@ -1,4 +1,7 @@
-# Repositório do Desafio de Projeo sobre Git/GitHub da DIO
-Desafio de Projeto sobre Git-GitHub
-Links Úteis
-[Sintaxe Básia Markdown]
+#  Desafio de Projeto sobre Git/GitHub da DIO
+Repositório criado para o desafio de Projeto sobre Git-GitHub
+
+## Links Úteis
+Markdown Básico: Sintaxe, Uso & Exemplos [Passo a Passo]
+
+https://markdown.net.br 
