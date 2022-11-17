@@ -1,0 +1,15 @@
+Chave SSH e Token:
+Forma de estabelecer uma conexão segura entre duas máquinas e encriptada.
+Sempre terá dua schaves, 1 privada e 1 pública. 
+ 
+
+Como alguns comandos funcionam:
+
+cd /- Para entrar em uma pasta.
+git clone - para clonar um repositório.
+git init - para inicializar um código.
+ls -a - flag usada para ver pasta oculta.
+cd.. - volta um nível de comando.
+git status - mostra o status de arquivos e se algo precisa ser comitado.
+git push - para empurrar um atquivo.
+git pull - pra clonar para seu PC.
